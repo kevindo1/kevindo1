@@ -1,4 +1,4 @@
-![Banner](alaska.jpg)
+![Banner](github.jpg)
 
 <!--
 **kevindo1/kevindo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
