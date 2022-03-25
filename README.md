@@ -1,7 +1,7 @@
 ![Banner](github.jpg)
 
 <h2 align="center"> About me: </h2> 
-Hello! My name is Kevin and I am a software engineer. 
+<p> Hello! My name is Kevin and I am a software engineer. </p> 
 <!--
 **kevindo1/kevindo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
