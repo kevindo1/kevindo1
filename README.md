@@ -1,4 +1,4 @@
-![Banner](github.jpg)
+![Banner](ghbanner.jpg)
 
 <h2 align="center"> About me: </h2> 
 <p align="center"> Hello! My name is Kevin and I am a software engineer. </p> 
