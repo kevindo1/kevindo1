@@ -1,5 +1,7 @@
 ![Banner](github.jpg)
 
+## About me: 
+Hello! My name is Kevin and I am a software engineer. 
 <!--
 **kevindo1/kevindo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
