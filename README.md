@@ -1,13 +1,14 @@
 ![Banner](ghbanner.jpg)
 
 <div align="center">
-  <a href="https://kevindo.dev"> Portfolio</a> ||
-  <a href="https://www.linkedin.com/in/kdo/">LinkedIn </a>
+  <h3>
+    <a href="https://kevindo.dev"> Portfolio</a> ||
+    <a href="https://www.linkedin.com/in/kdo/">LinkedIn </a>
+  </h3>
+  <h2 align="center"> About me: </h2> 
+  <p align="center"> Hello! My name is Kevin and I am a software engineer. </p> 
 
-<h2 align="center"> About me: </h2> 
-<p align="center"> Hello! My name is Kevin and I am a software engineer. </p> 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kevindo1&show_icons=true&theme=tokyonight&hide=stars,issues)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=kevindo1&show_icons=true&theme=tokyonight&hide=stars,issues)
 
 </div>
 <!--
