@@ -1,5 +1,9 @@
 ![Banner](ghbanner.jpg)
 
+<div align="center">
+  <a href="https://kevindo.dev"> Portfolio</a> ||
+  <a href="https://www.linkedin.com/in/kdo/">LinkedIn </a>
+</div>
 <h2 align="center"> About me: </h2> 
 <p align="center"> Hello! My name is Kevin and I am a software engineer. </p> 
 <!--
