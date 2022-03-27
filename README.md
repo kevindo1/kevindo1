@@ -6,6 +6,8 @@
 </div>
 <h2 align="center"> About me: </h2> 
 <p align="center"> Hello! My name is Kevin and I am a software engineer. </p> 
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kevindo1&show_icons=true&theme=tokyonight&hide=stars,issues)
 <!--
 **kevindo1/kevindo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
