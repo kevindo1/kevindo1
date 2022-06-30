@@ -14,7 +14,7 @@
   <p>✦ Frameworks: React, Redux, Node, Express, Jquery, Tailwind</p>
   <p>✦ Testing: Supertest, TDD, Jest, QUnit, Testing Playground</p>
   <p>✦ Databases: SupaBase, PostgreSQL</p>
-  <p>✦ Learning: Storybook</p>
+  <p>✦ Learning: React Native</p>
 </ul>
   <br>
   <p> Fun Facts
