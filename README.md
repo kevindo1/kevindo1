@@ -10,7 +10,7 @@
   </p>
 <br>
 <ul>
-  <p>✦ Languages: JavaScript, TypeScript, React.js, HTML/CSS</p>
+  <p>✦ Languages: JavaScript, React.js, HTML/CSS</p>
   <p>✦ Frameworks: React, Redux, Node, Express, Jquery, Tailwind</p>
   <p>✦ Testing: Supertest, TDD, Jest, QUnit, Testing Playground</p>
   <p>✦ Databases: SupaBase, PostgreSQL</p>
